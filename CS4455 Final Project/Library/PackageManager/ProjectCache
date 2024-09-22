@@ -3286,9 +3286,11 @@ m_ResolvedPackages:
     - 1.8.15
     - 1.8.16
     - 1.8.17
+    - 1.8.18
     compatible:
     - 1.8.17
-    verified: 1.8.17
+    - 1.8.18
+    verified: 1.8.18
   dependencies:
   - name: com.unity.mathematics
     version: 1.2.1
