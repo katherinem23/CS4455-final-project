@@ -99,7 +99,6 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
--define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -325,11 +324,11 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.42f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.42f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.42f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
--r:"/Users/jennyhou/git/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
--r:"/Users/jennyhou/git/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
--r:"/Users/jennyhou/git/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
--r:"/Users/jennyhou/git/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
--r:"/Users/jennyhou/git/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/yuanhongzhou/Desktop/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
+-r:"/Users/yuanhongzhou/Desktop/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
+-r:"/Users/yuanhongzhou/Desktop/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
+-r:"/Users/yuanhongzhou/Desktop/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
+-r:"/Users/yuanhongzhou/Desktop/CS4455-final-project/CS4455 Final Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.ref.dll"
 "Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/AssemblyResolver.cs"
 "Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.CodeGen/BurstILPostProcessor.cs"
