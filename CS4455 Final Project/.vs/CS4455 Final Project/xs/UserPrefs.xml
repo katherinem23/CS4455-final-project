@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4574B647-704F-700C-3613-34FA8BD055F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PowerUpRed.cs">
+    <Files>
+      <File FileName="Assets/ColletablePowerUp.cs" Line="14" Column="29" />
+      <File FileName="Assets/Scripts/PowerUpRed.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS4455 Final Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PowerUpRed.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f31df04-950d-4599-8b5a-ad890b04711d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
